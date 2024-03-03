@@ -6,7 +6,7 @@
     "test-app-number-7th": "^1.0.1"
   },
   "name": "give-advice-10th",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
